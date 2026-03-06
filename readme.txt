@@ -54,3 +54,5 @@ python dane_posprocesingowe.py
 
 Uruchom plik modelowanie.py:
 python modelowanie.py
+
+dziala
